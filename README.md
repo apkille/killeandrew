@@ -9,7 +9,7 @@ My research interests are:
 
 -machine learning :brain:
 
-If you want to visit my [personal website] (andrewkille.com)
+Link to [personal website] (andrewkille.com)
 <!---
 killeandrew/killeandrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
