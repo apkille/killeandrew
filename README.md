@@ -5,7 +5,7 @@ My research interests are:
 
 -Particle Physics
 
--computational modeling
+-Computational modeling
 
 -Algorithms
 <!---
